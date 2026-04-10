@@ -50,4 +50,4 @@ The goal is to identify key factors driving customer churn and provide actionabl
 The `PreferedOrderCat` column contains two separate entries — "Mobile" and "Mobile Phone" — which likely represent the same product group. This inconsistency was flagged and noted in the analysis.
 
 ## Contact
-Feel free to connect with me on www.linkedin.com/in/melike-n-a97480390 if you have any feedback or questions!
+Feel free to connect with me on [www.linkedin.com/in/melike-n-a97480390] (#)if you have any feedback or questions!
